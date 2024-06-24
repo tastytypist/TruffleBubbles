@@ -1,0 +1,11 @@
+{
+    "Name": "Truffle Bubbles",
+    "Author": "tastytypist",
+    "Version": "1.0.0",
+    "Description": "Displays bubble indicators for locating on-grass truffles.",
+    "UniqueID": "TastyTypist.TruffleBubbles",
+    "EntryDll": "TruffleBubbles.dll",
+    "MinimumApiVersion": "4.0.8",
+    "MinimumGameVersion": "1.6.8",
+    "UpdateKeys": [ "GitHub:tastytypist/TruffleBubbles" ]
+}
